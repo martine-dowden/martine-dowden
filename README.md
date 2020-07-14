@@ -8,20 +8,20 @@ Focusing on web interfaces that are beautiful, functional, accessible, and usabl
 
 ## What I've been up too
 
-- 💬 Speaking at conferences ([When and where](https://martine-dowden.github.io/portfolio/speaking))
-- 📖 Finished writing [Approachable Accessibility: Planning for Success](https://www.apress.com/gp/book/9781484248805)
-- 😷 Developing a social distancing app: [Queue Saver](https://queuesaver.com/)
-- 📡 Co-Organizing [GDG Indy](https://www.meetup.com/gdg-indy/)
+- 💬  Speaking at conferences ([When and where](https://martine-dowden.github.io/portfolio/speaking))
+- 📖  Finished writing [Approachable Accessibility: Planning for Success](https://www.apress.com/gp/book/9781484248805)
+- 😷  Developing a social distancing app: [Queue Saver](https://queuesaver.com/)
+- 📡  Co-Organizing [GDG Indy](https://www.meetup.com/gdg-indy/)
 
 ## Fun Facts
 - M favorite language is CSS ⭐
-- All the coffee all the time ☕, sometimes cookies 🍪🍪
-- Cold is better 🍂🎃, snow is the best ❄️☃
-- I ❤️ my pet 🐠🐡🐟
+- All the coffee all the time ☕, sometimes cookies 🍪 🍪
+- Cold is better  🍂 🎃, snow is the best ❄️☃
+- I ❤️  my pet 🐠 🐡 🐟
 
 ## Find me on the web
 
-- 🔬 learning and experimenting with code and other stuff on [twitter](https://twitter.com/Martine_Dowden)
-- 🔨 tinkering in [Codepen](https://codepen.io/martine-dowden)
-- 📓 sharing my projects and conference slides on [martine.dev](http://martine.dev/)
+- 🔬  learning and experimenting with code and other stuff on [twitter](https://twitter.com/Martine_Dowden)
+- 🔨  tinkering in [Codepen](https://codepen.io/martine-dowden)
+- 📓  sharing my projects and conference slides on [martine.dev](http://martine.dev/)
 

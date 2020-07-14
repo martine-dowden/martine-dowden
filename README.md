@@ -4,7 +4,7 @@
 
 ![avatar and list of skills: UX, CSS, UI, UX, HTML, JavaScript, Typescript, Sass, Less, Design, Accessibility, Illustrator, Photography, XSLT, XPath, Vue, React, Regex, Statistics](https://raw.githubusercontent.com/martine-dowden/martine-dowden/master/img/portrait.png)
 
-Focusing on web interfaces that are beautiful, functional, accessible, and usable I approach User Experience from both Art and Science, drawing from my  degrees in Psychology and Visual Communications.
+By combining a background in psychology and art, I design and implement web interfaces that are beautiful, functional, and usable. I've worked as an artist, educator, and consultant since 2005. I stays active in the industry by teaching at a coding academy, attending and speaking at conferences and meetups.
 
 ## What I've been up too
 

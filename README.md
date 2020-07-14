@@ -15,10 +15,10 @@ Focusing on web interfaces that are beautiful, functional, accessible, and usabl
 
 ## Fun Facts
 
-- My favorite language is CSS &nbsp; ⭐
-- All the coffee all the time &nbsp; ☕ &nbsp;, sometimes cookies 🍪 &nbsp; 🍪
-- Cold is better &nbsp; 🍂 &nbsp; 🎃  &nbsp;, snow is the best  &nbsp; ❄️  &nbsp; ☃
-- I &nbsp; ❤️ &nbsp; my pet &nbsp; 🐠 &nbsp; 🐡 &nbsp; 🐟
+- My favorite language is CSS ⭐
+- All the coffee all the time ☕ , sometimes cookies 🍪 &nbsp;🍪
+- Cold is better 🍂 &nbsp;🎃 , snow is the best ❄️ &nbsp;☃
+- I &nbsp;❤️ &nbsp; my pet &nbsp;🐠 &nbsp;🐡 &nbsp;🐟
 
 ## Find me on the web
 

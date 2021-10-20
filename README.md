@@ -1,6 +1,6 @@
 # Martine Dowden
 
-*GDE & MVP, She/Her/They*
+*GDE & MVP, She/Her*
 
 ![avatar and list of skills: UX, CSS, UI, UX, HTML, JavaScript, Typescript, Sass, Less, Design, Accessibility, Illustrator, Photography, XSLT, XPath, Vue, React, Regex, Statistics](https://raw.githubusercontent.com/martine-dowden/martine-dowden/master/img/portrait.png)
 
@@ -8,10 +8,9 @@ By combining a background in psychology and art, I design and implement web inte
 
 ## What I've been up too
 
-- 💬 &nbsp; Speaking at conferences ([When and where](https://martine-dowden.github.io/portfolio/speaking))
+- 💬 &nbsp; Speaking at conferences ([When and where](https://martine.dev/speaking))
 - 📖 &nbsp; Finished writing [Approachable Accessibility: Planning for Success](https://www.apress.com/gp/book/9781484248805)
 - 😷 &nbsp; Developing a social distancing app: [Queue Saver](https://queuesaver.com/)
-- 📡 &nbsp; Co-Organizing [GDG Indy](https://www.meetup.com/gdg-indy/)
 
 ## Fun Facts
 

@@ -1,7 +1,7 @@
 # Martine Dowden
 **CTO, UX / UI Designer &amp; Developer, International Speaker, Author, GDE, MVP**
 
-*GDE & MVP, She/Her*
+*She/Her*
 
 An award winning CTO, UX / UI designer &amp; developer, international speaker, and author, Martine focuses on web interfaces that are beautiful, functional, accessible, and usable. She approaches user experience from both art and science, drawing from her degrees in psychology and visual communications. She has worked as a developer, artist, educator, and consultant since 2005.
 

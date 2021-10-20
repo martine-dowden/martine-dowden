@@ -1,5 +1,5 @@
 # Martine Dowden
-**CTO, UX / UI Designer &amp; Developer, International Speaker, Author,<br/>GDE, MVP**
+**CTO, UX / UI Designer &amp; Developer, International Speaker, Author, GDE, MVP**
 
 *GDE & MVP, She/Her*
 

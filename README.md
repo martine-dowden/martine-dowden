@@ -2,8 +2,6 @@
 
 *GDE & MVP, She/Her*
 
-![avatar and list of skills: UX, CSS, UI, UX, HTML, JavaScript, Typescript, Sass, Less, Design, Accessibility, Illustrator, Photography, XSLT, XPath, Vue, React, Regex, Statistics](https://raw.githubusercontent.com/martine-dowden/martine-dowden/master/img/portrait.png)
-
 By combining a background in psychology and art, I design and implement web interfaces that are beautiful, functional, and usable. I've worked as an artist, educator, and consultant since 2005. I stays active in the industry by teaching at a coding academy, attending and speaking at conferences and meetups.
 
 ## What I've been up too
@@ -21,7 +19,7 @@ By combining a background in psychology and art, I design and implement web inte
 
 ## Find me on the web
 
-- 🔬 &nbsp; learning and experimenting with code and other stuff on [twitter](https://twitter.com/Martine_Dowden)
+- <img src="https://raw.githubusercontent.com/martine-dowden/martine-dowden/master/img/twitter.svg" width="20"> &nbsp; learning and experimenting with code and other stuff on [twitter](https://twitter.com/Martine_Dowden)
 - 🔨 &nbsp; tinkering in [Codepen](https://codepen.io/martine-dowden)
-- 📓 &nbsp; sharing my projects and conference slides on [martine.dev](http://martine.dev/)
+- <img src="https://raw.githubusercontent.com/martine-dowden/martine-dowden/master/img/link.svg" width="20"> &nbsp; sharing my projects and conference slides on [martine.dev](http://martine.dev/)
 

@@ -7,6 +7,15 @@ An award winning CTO, UX / UI designer &amp; developer, international speaker, a
 
 Currently, she is the CTO at Andromeda Galactic Solutions where she continues to learn, work on, and share her passion for front end development.
 
+## Topics of interest
+
+* Accessibility
+* UX / UI Design &amp; Development
+* CSS
+* JavaScript / Typescript
+* Angular
+* Firebase
+
 ## Where to find me on the web
 
 * Website: [martine.dev](https://martine.dev)

@@ -3,7 +3,7 @@
 
 *She/Her*
 
-Focusing on web interfaces that are beautiful, functional, accessible, and usable, Martine approaches User Experience from both Art and Science, drawing from her degrees in Psychology and Visual Communications. She is a Web Technologies, Firebase, and Angular GDE as well as a Microsoft MVP in Developer Technologies. Martine stays active in the industry by writing articles, leading workshops, and speaking at conferences and meetups worldwide. An accomplished author, her latest book, Tiny CSS Projects was released in 2023.
+Focusing on web interfaces that are beautiful, functional, accessible, and usable, Martine approaches User Experience from both Art and Science, drawing from her degrees in Psychology and Visual Communications. She is a Web Technologies, Firebase, and Angular GDE as well as a Microsoft MVP in Developer Technologies. Martine stays active in the industry by writing articles, leading workshops, and speaking at conferences and meetups worldwide. An accomplished author, her latest book, [Tiny CSS Projects](https://www.manning.com/books/tiny-css-projects?utm_source=martined&utm_medium=affiliate&utm_campaign=book_gearon_tiny_6_28_22&a_aid=martined&a_bid=f189f29c) was released in 2023.
 
 Currently, she is the CTO at Andromeda Galactic Solutions where she continues to learn, work on, and share her passion for front end development.
 

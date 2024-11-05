@@ -24,5 +24,4 @@ Currently, she is the CTO at Andromeda Galactic Solutions where she continues to
 * LinkedIn: [martinedowden](https://www.linkedin.com/in/martinedowden/)
 * Mastodon: [@martine_dowden](https://mastodon.social/@martine_dowden)
 * Twitch: [martine_dowden](https://www.twitch.tv/martine_dowden)
-* X: [@Martine_Dowden](https://twitter.com/Martine_Dowden)
 * Youtube: [MartineDowden](https://www.youtube.com/c/MartineDowden)

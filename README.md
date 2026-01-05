@@ -19,7 +19,7 @@ Currently, she is the CTO at Andromeda Galactic Solutions where she continues to
 ## Where to find me on the web
 
 * Website: [martine.dev](https://martine.dev)
-* Blov: [Blog](https://andromedagalactic.com/blog/contributor/martine-dowden)
+* Blog: [Blog](https://andromedagalactic.com/blog/contributor/martine-dowden)
 * Bluesky: [@martine.dev](https://bsky.app/profile/martine.dev)
 * LinkedIn: [martinedowden](https://www.linkedin.com/in/martinedowden/)
 * Mastodon: [@martine_dowden](https://mastodon.social/@martine_dowden)
